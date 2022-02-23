@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of truth and falshood discovered by the light of God in the inward parts the spirit of man being the candle of the Lord ... / written ... by one whom the people of the world calls a Quaker ... Yorkshire, 1652, Rich. Farneworth.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40930</idno>
+            <idno type="STC">Wing F479A</idno>
+            <idno type="STC">ESTC R31501</idno>
+            <idno type="EEBO-CITATION">12027321</idno>
+            <idno type="OCLC">ocm 12027321</idno>
+            <idno type="VID">52658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1010:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of truth and falshood discovered by the light of God in the inward parts the spirit of man being the candle of the Lord ... / written ... by one whom the people of the world calls a Quaker ... Yorkshire, 1652, Rich. Farneworth.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 33-42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52658:1" rendition="simple:additions"/>
+            <pb facs="tcp:52658:1" rendition="simple:additions"/>
+            <p>A DISCOVERY OF Truth and Falſhood.</p>
+            <p>
+               <note place="margin">Heb. 4.12, 13. 1 Cor. 4.6, 7. 2 Cor. 2.10. Joh. 8: 12. Pſal. 25.14 Prov. 3.32. Amos 3.8. Rev. 14.1, 2, 3, 4, 5, 6.</note>Diſcovered by the light of God in the inward parts, the ſpirit of of man being the candle of the Lord, which being enlightned, it ſearch<g ref="char:EOLhyphen"/>eth the ſecrets, and ſpyes out all the deceits of the heart; and the Lord commandeth that it ſhould ſhine forth to others; for the ſpirit ſearch<g ref="char:EOLhyphen"/>eth all things, even the deep things of God, that they may be enlight<g ref="char:EOLhyphen"/>ened, that ſit in darkeneſs: Chriſt within is the light of the Lord, and enlighteneth the underſtanding, and placeth his fear in the heart, and the ſecrets of the Lord are with them that fear him. Oh fear the Lord God almighty, and worſhip not the beaſt as all do that have not found their names written in the book of life, <hi>Rev.</hi> 13.8. God is a Spirit, and now he will be worſhipped in Spirit and in Truth, <hi>Joh.</hi> 4.24. for he is ſeeking ſuch to worſhip him, <hi>verſ.</hi> 23. &amp; <hi>Ezek.</hi> 34.11. and 16. The Lord is gathering all his elect together by his Spirit, out of al Forms, into the ſubſtance of all Forms, to worſhip him in his temple at <hi>New Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> where the <hi>tabernacle of God is with men,</hi> Rev. 21.3. Oh all people, ceaſe from man, whoſe breath is in his noſtrils, <hi>Iſa.</hi> 2.22. and fear God,<note place="margin">Rev. 14.7.</note> and give glory unto him: for the hour of his judgement is coming: and worſhip him that made heaven and earth; the Lord doth require it.</p>
+            <p>Written from the Spirit of the Lord, by one whom the people of the world calls a Quaker, but is of the Divine nature made partaker: whom the world knows not, that are in their old nature, and ſo mock and deride: but <hi>wo to the wicked, it ſhall be ill with them.</hi>
+               <note place="margin">Iſai. 3.11.</note>
+            </p>
+            <p>
+               <hi>Say unto the righteous, It ſhall be well with them: for they ſhall inherit the bleſſing.</hi>
+               <note place="margin">Iſai. 3.10. Matth. 5.10, 11, 12.</note>
+            </p>
+            <p>
+               <hi>Yorkſhire,</hi> 1652. Rich. Farneworth.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:52658:2" rendition="simple:additions"/>
+            <pb n="33" facs="tcp:52658:2" rendition="simple:additions"/>
+            <head>A diſcovery of truth, and falſhood.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Ll people, ſee where you are, and conſider how you ſtand, and ſee whether you be yet in the fall, or redeemed to God, and com'd into the promiſed land, born of water and the Spirit, and circumciſed with the circumciſion made without hands, and baptiſed by one ſpirit into one body, having put on Chriſt, which is the head of his body, the Church, the firſt born written in Heaven,<note place="margin">1 Cor. 12.13. Gal. 3.27.</note> for they that are baptiſed into Chriſt, have put on Chriſt, and are crucified to the world, and the world to them, being com'd thorow the law, by which the old man was crucified, and are redeemed from under the earth, to the Lord God, and to the Lambe, Chriſt being the end of the law for righteouſneſs, ruling by his power alone, in thoſe that are of the new birth, and reconciled to God by the bloud of the Lambe, the enmity being ſlaine, the old man deſtroyed, with the deeds of darkneſs, which the righteous law was to: and the new man raiſed up and com'd thorow the law by the divine power of righteouſneſs, ſees now what the law is to, not to the righteous, but to the unrighteous, and hath power over the fleſhly man: they that are in the fleſh cannot pleaſe God, who is a ſpirit, and of purer eyes then to behold iniquity: neither are they Iſrael that are after the fleſh, but they that are after the ſpirit: he is not a Jew that is one outwardly, but he is a Jew that is one inwardly; the Jew out<g ref="char:EOLhyphen"/>wardly had a law outwardly, written in tables of ſtone,<note place="margin">Jer. 31.31, 32, 33, 35. Heb 8.10, 11.</note> but the Jew inwardly hath his law written in inward fleſhly tables of the heart, not with pen and ink, but by the Spirit of the living God, to teach them the knowledge of the everlaſting truth, and to direct them to holineſs and righteouſneſs, to walke humbly before him, that they may inherit the bleſſing.</p>
+            <p>In the time of the law that was given forth to the children of Iſrael af<g ref="char:EOLhyphen"/>ter the fleſh, they had it outwardly, written in tables of ſtone, in the firſt Covenant, which was outwardly:<note place="margin">Deut. 27.1, 2, 3, 4. Mica. 3.9, 10, 11. Iſai. 1.21, 22, 23, 24.</note> and they that ruled over man were to be juſt and faithful, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as hated God and feared covetouſneſs; for ſuch the Lord delights in but when they backſlided from the truth, then they did not juſtice, neither did they execute true judgement according to the command of God, therefore was he diſpleaſed with them, and ſent to cry out againſt them.</p>
+            <p>Now ſee where you are, whether in the tranſgreſſion, and in the fall yea or no: and learn to do that which is right in the ſight of the God
+<pb n="15" facs="tcp:52658:3" rendition="simple:additions"/>that he may be glorified by you; do juſtly, love mercy, and walk humbly before him, and execute true judgement and juſtice, for he doth require it.<note place="margin">Mic. 6.8.</note>
+            </p>
+            <div type="part">
+               <head>Juſt Men are to be rulers of the people</head>
+               <p>
+                  <hi>Moſes</hi> was a ruler over the people, and he ſet over them faithfull men, ſuch as feared God and hated covetouſneſs.</p>
+               <p>
+                  <hi>Moſes</hi> was to ſet over the people Officers, to judge the people with juſt judgement: See <hi>thou ſhalt not wreſt judgement,</hi> ſaith the Lord.</p>
+               <p>The judges are not to reſpect perſons in judgement.</p>
+               <p>The Judges and Officers are <hi>not to take a gift.</hi> See <hi>Deut</hi> 16.19 <hi>for gifts blinde the eyes of the wiſe, and pervert the words of the righteous</hi>
+               </p>
+               <p>
+                  <hi>They are to follow that which is altogether juſt,</hi> verſ. 20.<note place="margin">Deut. 32.36.</note>
+               </p>
+               <p>The Lord ſhall judge his people, and he judgeth righteouſly; and ſaith he, <hi>If I whet my glittering ſword, and my hand take hold of Judgement, I will render vengeance to mine enemies, and will reward them that hate me,</hi> Deut. 32.41.</p>
+               <p>
+                  <hi>The Lord ſhall judge the people,</hi> Pſal. 7.8.</p>
+               <p>
+                  <hi>The righteous God tryeth the hearts and reines,</hi> verſ. 9.</p>
+               <p>
+                  <hi>God judgeth the righteous, and he is angry with the wicked every day,</hi> Pſal, 7.11, 13, 14.</p>
+               <p>They that judge the people muſt be righteous, that they may judge righteouſly, <hi>For they judge for God and not for man.</hi> See 2 Chron. 19.6.</p>
+               <p>
+                  <hi>Jehoſaphat</hi> dwelt at <hi>Jeruſalem,</hi> and he ſet over the Cities Judges, and gave them charge, and ſaid to them, Take heed what ye do, <hi>for ye judge not for man but for the Lord,</hi> who is with you in judgement, 2 <hi>Chron.</hi> 16.5, 6, 7. wherefore ſaith he, now that you are to judge for the Lord, ſee that you judge righteouſly, and the fear of the Lord be with you; and ſaith he, Take heed and do it; for there is no iniquity with the Lord, nor re<g ref="char:EOLhyphen"/>ſpect of perſons, nor taking of gifts.</p>
+               <p>And he charged the Judges and Officers, ſaying, <hi>Thus ſhall ye do in the fear of the Lord faithfully, and with a perfect heart,</hi> verſ. 9.</p>
+               <p>
+                  <hi>The Judge is to open his mouth for the dumb,</hi>
+                  <note place="margin">Prov. 31.8.</note> 
+                  <hi>in the cauſe of ſuch as are ap<g ref="char:EOLhyphen"/>pointed for deſtruction.</hi>
+               </p>
+               <p>
+                  <hi>They that judge the people are to judge righteouſly, and they are to judge the poor and needy,</hi> Prov. 31.9.</p>
+               <p>
+                  <hi>Moſes</hi> gave the ſame charge to the Judges that <hi>Jehoſaphat</hi> did, <hi>Deut.</hi> 1.16. ſaith he, <hi>Hear the cauſes of your Brethren, between brother and brother, and judge righteouſly between every man and his brother, and the ſtranger that is with him.</hi>
+               </p>
+               <p>The Judges are not to reſpect perſons in judgement,<note place="margin">verſ. 17.</note> but are to hear the ſmall as well as the great; for the judgement is Gods.</p>
+               <p>The Lord himſelf ſaith, That they that judge the people ſhall do no unrighteouſneſs in judgement; It is a command of God. 2. He commands that they do not reſpect perſons: for ſaith he, <hi>Thou ſhalt not
+<pb n="35" facs="tcp:52658:3" rendition="simple:additions"/>reſpect the perſons of the poor, nor honour the perſons of the mighty.</hi> But 3. He commands them that they judge in righteouſneſs; See <hi>Lev.</hi> 19.15, 16. verſ.</p>
+               <list>
+                  <item>1. They are not to ſtand againſt the blood of their neighbour.</item>
+                  <item>2. They are not to hate their brother in their heart.</item>
+                  <item>3. They are to reprove for ſin.</item>
+                  <item>4. They muſt not bear any grudge to the people.</item>
+                  <item>5. They are not to be avenged of them.</item>
+                  <item>6. They are not to be tale-bearers amongſt the people.</item>
+                  <item>7. They are not to defraud their neighbour.</item>
+                  <item>8. They are not to curſe the deaf, nor to put a ſtumbling block before the blind; but they are to fear the Lord, and lay aſide evil.</item>
+                  <item>9. They are to keep the Statutes of the Lord, that they may judge righteouſly, <hi>Lev.</hi> 19.13, 14, 15, 16, 17, 18.</item>
+                  <item>10. The Judges are not to judge according to the outward appearance, but they are to judge righteous judgement; and it is joy to the Juſt to do judgement,<note place="margin">John 7.24</note> 
+                     <hi>Prov.</hi> 21.19.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Juſtices are to be faithful and juſt men.</head>
+               <list>
+                  <item>1. He that ruleth over men muſt be juſt.</item>
+                  <item>2. He muſt be one that feareth God.</item>
+                  <item>3. He muſt rule in love, and in the fear of the Lord.</item>
+                  <item>4. He muſt be one that hateth evil, and loveth that which is good; and he ſhall be as the light of the morning, when the ſun ariſeth, even a mor<g ref="char:EOLhyphen"/>ning without clouds, 2 <hi>Sam.</hi> 23.3, 4.</item>
+               </list>
+               <p>
+                  <hi>The path of the juſt is a ſhining light:</hi> they are to be juſt,<note place="margin">Prov. 3.18.</note> and ſhine forth in brightneſs, to be examples for others to walk by.</p>
+               <p>The way of the juſt is uprightneſs;<note place="margin">Iſa. 26.7.</note> thou moſt upright doſt weigh the paths of the juſt.</p>
+               <p>The juſt man walks in his integrity, <hi>Prov.</hi> 20.7.</p>
+               <p>It is joy to the juſt to do judgement, <hi>Prov.</hi> 21.15.</p>
+               <p>An unjuſt man is an abomination to the juſt,<note place="margin">Pro. 29.21</note> and he that is upright in his way, is an abomination to the wicked.</p>
+               <p>
+                  <hi>The juſt ſhall live by Faith,</hi> Rom. 1.17.</p>
+               <p>
+                  <hi>John was a juſt man and a holy,</hi> Mark 6.20.</p>
+               <p>
+                  <hi>To do judgement and juſtice is more acceptable to the Lord, then ſacrifice,</hi> Prov. 21.3. <hi>but an high look, and a proud heart is ſin;</hi> and it is not for one that is to do juſtice, verſ. 4. <hi>The robbery of the wicked ſhall deſtroy them, be<g ref="char:EOLhyphen"/>cauſe they refuſe to do judgement,</hi> verſ. 7.</p>
+               <list>
+                  <item>1. A Juſtice is to defend the poor and fatherleſs.</item>
+                  <item>2. They are to do juſtice to the afflicted and needy.</item>
+                  <item>3. <hi>They are to deliver the poor and needy, and rid them out of the hands of the wicked,</hi> Pſal. 82.3, 4.</item>
+                  <item>4. They are to remove violence and ſpoil.</item>
+                  <item>5. They are to execute judgement and juſtice.</item>
+                  <pb n="36" facs="tcp:52658:4" rendition="simple:additions"/>
+                  <item>6. They are to take away exactions from the people.</item>
+                  <item>7. They are to ſee that there be juſt weights and meaſures, ſaith the Lord; ſee if it be ſo, <hi>Ezek.</hi> 45.9, 10.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Juſtices.</head>
+               <p>
+                  <hi>Thus ſaith the Lord, Keep ye judgement, and do juſtice; do judgement and juſtice, and it ſhall be well with you;</hi> the Lord requireth that they do juſtice, and be merciful, and to walk humbly before the Lord, <hi>Mic.</hi> 6.8.</p>
+               <p>The true Judges was to be men that feared God and hated covetouſ<g ref="char:EOLhyphen"/>neſs; and they was to judge righteous judgement, without partiality or reſpect of perſons, and they were not to take bribes, but to do it freely; and likewiſe the Juſtices was to be the ſame, and to do juſtice, to take off oppreſſion and violence from the people, and to ſee that they had all in equity and juſtice.</p>
+               <p>Now when they did pervert the wayes of the Lord, he was diſpleaſed with them, and ſent forth his ſervants the Prophets to cry out againſt them; They are to do it freely, and to let the cauſe of the poor come before them, and to judge without any reſpect of perſons in righteouſ<g ref="char:EOLhyphen"/>neſs; but when they did it for money, it was odious to the Lord. See what <hi>Micah</hi> ſaith,<note place="margin">Mic. 3.1.</note> in the 3 of <hi>Micah;</hi> Hear, ſaith he, <hi>I pray-ye, O ye heads of Iſ<g ref="char:EOLhyphen"/>rael.</hi> It was Iſrael his owne people that had forgot his Laws; It is a diſhonour to the Lord, to have thoſe that profeſs love to him, and thoſe that had the Statutes and Ordinances committed to them, for to break his commands, and diſobey, and cauſe his name to be evil ſpoken of, by thoſe that made no profeſſion at all; well might they be forgetful of him, and live in wicked imaginations, when thoſe whom he had made him<g ref="char:EOLhyphen"/>ſelf manifeſt unto, in ſo large a manner as he did, which had the Statutes and Ordinances committed unto them, and had a rule given forth of the Lord to walk by, and had ſuch large promiſes given forth, that if they did abide and keep in his Statues and Ordinances committed unto them, they might enjoy thoſe things promiſed: but they waxed great and rich, and then forgot the Lord their God, and the lawes and ſtatutes which was committed to them, and ſo the Lord was diſpleaſed with them; for where much is given, much is required: but they forgot the Lord, and broke his ſtatutes and ordinances; and yet profeſſed love to him, and called him their Father:<note place="margin">Mal. 1.</note> but, ſaith he, <hi>If I be your Father, where is my ho<g ref="char:EOLhyphen"/>nour? and if I be a Maſter, where is my fear? for a ſon honoureth his father, and a ſervant his Maſter, but ye have diſhonoured me, ſaith the Lord: yet ye ſay, Wherein? have ye not diſpiſed thy name, ſaith the Lord, in offering polluted bread upon mine Altar?</hi> They was to bring <hi>of the beſt, and that which was clean, and pure,</hi> and they was to bring it freely; and the Prieſts was to offer it up freely: in bringing the beſt, they brought their hearts, and they was to bring it freely, and it was to be offered up, a perfect figure
+<pb n="37" facs="tcp:52658:4"/>of Jeſus Chriſt, laying downe his life freely: and when they did not bring of the beſt, then the Lord ſent his true Prophets to cry out againſt them; ſaith he, <hi>Curſed be the deceiver, that hath in his flock a male, and offereth up that which is unclean, and voweth and ſacrificeth unto the Lord an unclean thing.</hi> See Mal. 1.14. the curſe was upon them, for ſo doing; therefore all you profeſſors, and all high, and low; take heed how you do profeſs love to God and Jeſus Chriſt, and let your hearts be from him, either in your pride, or profits, or pleaſures, or preferments, or covetouſneſs, or oppreſſion; for if you profeſs love to him in words, you which profeſs him to be your Father, and Jeſus Chriſt to be your Saviour, if your hearts be not wholly with him, your ſacrifices are abominable to the Lord, all your praying, preaching, and expounding is but <hi>Cains</hi> ſacri<g ref="char:EOLhyphen"/>fice, which God doth not accept; for the prayers of the wicked are an abomination to the Lord: take heed of hypocriſie, God doth abhor it; for ſaith he, <hi>If ye love me, keep my commandments;</hi> and againe, <hi>My Son give me thy heart.</hi> Now if you make never ſo great profeſſion in words, and do not put it in practice, and walk anſwerably to it in your life and converſation, it is but hypocriſie, and diſſimulation, and God doth loath it, it ſtinkes before the Lord, your profeſſions in words without actions; therefore take heed of deceiving your ſelves in making a profeſſion; pro<g ref="char:EOLhyphen"/>feſſion without poſſeſſion is but hypocriſie; and ſaith the Lord, <hi>This peo<g ref="char:EOLhyphen"/>ple draw near me with their mouth, and with their lips do they honour me, but their hearts are far from me:</hi> Oh ſee where your hearts are, are they not in the world? and the Scripture ſaith, <hi>If any man love the world, the love of the Father is not in him;</hi> for the luſt of the fleſh, the luſt of the eyes, and the pride of life, is not of the Father, but are of the world, the works of the Devil, and are for the fire: <hi>The Lord is a conſuming fire,</hi> and he will burn up all his enemies before him: Oh therefore take heed of diſſem<g ref="char:EOLhyphen"/>bling with him; for God cannot endure a diſſembler, he loves the up<g ref="char:EOLhyphen"/>right in heart, in life, and converſation. See where you are, are you not going on to deſtruction? take heed betime; Oh where art thou? ſee, art thou not ſtanding by the pits brink? take heed thou ſall not in: canſt thou ſee? art thou not blinde? thou art abroad running a whoreing, and the whoremonges God will judge. See, art thou not committing adulte<g ref="char:EOLhyphen"/>ry under every green tree? doſt thou know? where art thou? art thou not a ſleep in ſecurity? take heed, art thou? canſt thou tell? See, there was one that had forgot the Lord, and was going after pride; ſee, is not thine? Oh thou profeſſor, turne againe, that is not the way to <hi>Sion;</hi> turn in hither, thou haſt clear loſt thy way: wouldſt thou go to <hi>Sion?</hi> tell me, if thou wouldſt, thou muſt not go with thy friends; canſt thou forſake all? It is a narrow way to hit, there is no room at all for to take thy friends with thee: I would fain go to <hi>Sion,</hi> but I have ſuch a love to my friends, that I cannot part with them; for if I part with them, I ſhall part with my life; do ſo, knoweſt thou not what Jeſus Chriſt ſaith, <hi>He that will loſe his life for my names ſake, ſhall finde it?</hi> and he ſaith, <hi>He that loves any thing more then me, is not worthy of me.</hi> Art thou willing to forſake
+<pb n="38" facs="tcp:52658:5" rendition="simple:additions"/>thy friends, and lay downe thy life? tell me, if thou be willing, it will be ſuch an exchange as thou art not yet acquainted with; though thou be great, and have many friends and acquaintance, they are not to be compared to the life that is in Chriſt; I know thou haſt many friends, but thou muſt forſake all, if thou follow Jeſus Chriſt; for there is no room for them there: thou muſt leave thy friend pride behinde thee, when thou entereſt into the ſtreight way, there is no room at all for it to enter; nay thou muſt not leave thy friend pride onely, but thou muſt forſake thy kinſman covetouſneſs, which hath laboured ſo much for thee a<g ref="char:EOLhyphen"/>mong the earth-worms, to fetch in proviſion for thee, that did refreſh thy friend old pride; and thou muſt leave thy heavy oppreſſion behind, that hath ſo much tyrannized over thy friend ſimplicity; but ſimplicity ſhall go on the way with thee: but old neighbour guile, he cannot come near within a mile, he is a wanderer, and thy friends envy, hatred, an<g ref="char:EOLhyphen"/>ger, and malice, they are murderers, and they are for the fire; and thy friends pleaſures and wantonneſs, they are for the ſword, and all old acquaintance, as lying, ſwearing, and fooliſh talking, which was thy companions for paſtime, thou muſt leave them alſo, and thy beloved faſhions, and ancient cuſtomes which thou haſt been ſo long breeding and training up, they muſt be left, and all thy darlings; as thy cuſtomary hearing of Sermons, and thy old friends thy companions that went along with thee, and thou muſt take thy poor deſpiſed friends, patience, and meekneſs, and long ſuffering; for thy friends, thy cuſtomary hearers, and formal profeſſors, and time-ſervers, they will hate thee, and perſe<g ref="char:EOLhyphen"/>cute thee: and old Pharaoh, before he be willing to let thee go into the wilderneſs, will oppreſs thee, and ſet task-maſters over thee, to cauſe thee to make brick without ſtraw, to be ſubject to their earthly carnal wills: Be of good chear, the Lord will ſend out his ſervant <hi>Moſes,</hi> his ſervant, for he is faithful, and he will execute true judgement, and juſtice upon him, and pour forth the Vials upon him, and there ſhall be darkneſs over all <hi>Egypt;</hi> but thou wilt finde light in <hi>Goſhen,</hi> and the Lord will ſend his Angel to go before thee, to lead thee through the <hi>Egyptian</hi> Sea of confuſion, and troubles, and bring thee into the wilderneſs, where thou ſhalt hear a voice behind thee, ſaying, <hi>This is the way, walk in it:</hi> and ſee that thou minde thy guide, when thou art in the way of the Wil<g ref="char:EOLhyphen"/>derneſs, to follow it, leſt thou by looking about: thee, there to ſee the rage and envy of venomous beaſts, be clouded and loſe thy way, for there will be great danger of it: take heed of looking behinde thee, when thou art got into the wilderneſs, leſt thou loſe thy guide, and then can<g ref="char:EOLhyphen"/>not finde the way out, and ſo be ready to turne into <hi>Egypt</hi> again; if thou do, the curſe will come upon thee, and thou will finde nothing but tor<g ref="char:EOLhyphen"/>ment and trouble there. Now that the light is riſen among the <hi>Iſraelites,</hi> they ſee groſs darkneſs over all <hi>Egypt:</hi> and <hi>Pharaoh,</hi> he fumes and frets, and ſays, <hi>Who is God, that I ſhould obey him, to let the people go?</hi> If I let them go, I ſhall loſe my honour and my greatneſs; for they labour for my luſt, and I have my deſire ſatisfied by them: and there are many Egyptians of high blood, that have been brought up in pleaſures, and had great pre<g ref="char:EOLhyphen"/>ferments in <hi>Egypt</hi> by theſe bondſlaves; and If I let them go, we can<g ref="char:EOLhyphen"/>not work, and our honour will not be upheld; but I will go and give au<g ref="char:EOLhyphen"/>thority
+<pb n="39" facs="tcp:52658:5" rendition="simple:additions"/>to ſome lofty ſpirited men, that is of an high deſcent, like unto my ſelf, and before I will let them go free, I will give them the moſt part of their increaſe that they labour for, and they ſhall get up into an high place, and ſtand over them, and they ſhall be compelled to be under them: for I will take away their ſtraw before, and make them labour the harder; and before they will be utterly deſolate of livelyhood, they will labour night and day, and ſo we ſhall keep them in ſubjection to us; for if they be not ſore oppreſſed, they will not matter for us: but come, my Task-maſters, take a command, and go; I'll give you authority: have not I power in mine hand to enact and give forth Laws, for all to be ſubject to my will? Go, take with you words, and ſay, Thus ſaith <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> As for this fellow <hi>Moſes,</hi> I will not meddle with him, he comes to take you off from your work, and make you to idle; but I'll not hear him: you muſt fulfil your tale of brick, and ſee that there be none wanting; for <hi>Pharaoh</hi> hath given us authority over you, and now that we have got au<g ref="char:EOLhyphen"/>thority for him, as for this <hi>Moſes,</hi> we care not for him: keep to your work, and ſtay, and hear us, give heed to our words: you were idle be<g ref="char:EOLhyphen"/>fore, and cared not for us, becauſe you had your ſtraw provided for you; but now muſt you provide it your ſelves: we will have our wages on you, that our maſter doth allow us; for we are men that have ſpent moſt of our time in the Egyptian ſtudies, and we can ſpeak that language very well: and it hath pleaſed <hi>Pharaoh</hi> to give us large benefits, which are able to maintain us, and now we will make you ſtay at your work, for we are men that are ſet in authority by our maſter <hi>Pharaoh,</hi> and he doth now allow us our wages: before you go into the wilderneſs, we will make you to abide here with us; for if we ſhould have let you go with this <hi>Moſes,</hi> we ſhould have loſt our benefits which we did receive by you: but now you muſt abide the bitterneſs of it. If you had been willing to have let<g ref="char:EOLhyphen"/>ten us been your maſters, and ſo have laboured in the earth for us, ye might have had a little more liberty then now you are like to have; for now we have time enough to ſpeak to you, for that is our work, but you muſt labour hard now for <hi>Pharaoh</hi> is waxen proud, and high, and he muſt have a maintenance from you; and we are his ſervants, ſet up by him, to keep you to your work, and when it is ready, reap us the tenth part of the beſt of your labours, and we ſhall take it into us, and then we are to have part of every thing that you make uſe of beſides, for we muſt be ſomething ſuitable our maſter, that he may have praiſe by us, for you are to be ſubject to us, therefore keep to your work, and labour hard, that you may make us great and rich: for if we had letten you alone, you would have followed this <hi>Moſes,</hi> but now you muſt be obedient to our maſter <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> therefore labour hard. So the taskmaſters of <hi>Egypt</hi> kept the <hi>Iſraelites</hi> a great bondage, after that the Lord had ſent his ſervant <hi>Moſes,</hi> to bid <hi>Pharaoh</hi> let them go free, and when they was ſo ſore burdened, then he came againe from the Lord to ſpeak to <hi>Pharaoh,</hi> but he would not hear<g ref="char:EOLhyphen"/>ken unto him, till the Lord poured forth his plagues upon him, and then he called for <hi>Moſes</hi> againe, and bad him pray that the Lord might re<g ref="char:EOLhyphen"/>move the plague from him, and then he would let them go: but when the plagues was removed, he forgot the Lord againe, and kept them in great
+<pb n="40" facs="tcp:52658:6" rendition="simple:additions"/>bondage, by tasking of them, and the cries of the poor oppreſſed ones came before the Lord, and he ſent his ſervant <hi>Moſes</hi> again, but <hi>Pharaoh</hi> would not hearken to him, any longer then the plagues were upon him, and afterward he hardened his heart, and grew exceeding proud, and kept the people in great ſlavery, by his proud and pratling taskmaſters, that he had ſet over them: but when they would not obey the Lord after ſo many times ſending forth his ſervants to ſhew them ſigns and wonders, that they might repent, and forſake the evill of their doings, and let the oppreſſed go free; when nothing would prevaile, he then came with his ſtrong hand, and ſtreched-out arm, and ſlew all their firſt born; and that did ſomething tender them; yet they was ſo proud, and high ſpirited men, and men that had lived in ſo much pride, and pleaſures, and idleneſs, and was maintained by their labours, that when they ſaw the Lord would have them from under their commands, and that they might be likely to loſe their honours, preferments, and high places, they was ſore moved with envy, wrath, and malice, that if they could not have them to be their ſlaves, they would after them, and they would go ſhew all their valour, and fight againſt the Lord, that if they could conquer him, they might be Lords over all the earth: but the Lord was ſo full of mercy, that he would hove had them to have obeyed him, and to have letten the people go with him, and that they might have lived in the land where they was; but they would ſtrive with their Maker, and would not hearken to him, till they were all overwhelmed in the water: ſo the Lord made his pow<g ref="char:EOLhyphen"/>er known in the deliverance of the <hi>Iſraelites;</hi> And ſecondly, in the de<g ref="char:EOLhyphen"/>ſtruction of the <hi>Egyptians.</hi> It is hard for all the proud and lofty ſpirits in the world, to fight againſt God, as dayly they do, by ſeeking to ſup<g ref="char:EOLhyphen"/>preſs his owne work, in the hearts of his poor people: It is better for them all to ſit ſtill, then ſtand up in the height of pride and envy, to ſeek the <hi>Iſraelites</hi> blood to ſpill; for the Lord will make his power knowne, and all the crowns of envy, pride, and oppreſſion, and cruelty muſt be thrown down, and he will rule as King above, becauſe they will not do their word, as by their works they do profeſs, to take the burdens off from all that are oppreſt; they that profeſs to love the Lord, muſt let their mercies run abroad, that he may be ſet up and honoured, and take the burdens off from all the people, and love their enemies, and feed the hungry, and cloath the naked ones; as Chriſt himſelf did teach all thoſe that followed him, and for to live in love one with another: but ſaith he, See that you bring forth much fruit, and glorifie my Fa<g ref="char:EOLhyphen"/>ther: the Lord doth look to have all thoſe that profeſs love to his name, to be as he is, that his name be not evil ſpoken of; he is juſt, merciful, and exceeding loving; and he would have thoſe that do profeſs him in words, to be the ſame in actions, elſe they do mightily diſhonour him, and cauſe his name to be evil ſpoken of; he looks that they ſhould be fruitful, loving, and merciful, and not to ſay they do love him, and profeſs to be his people by their words, and by their actions deny him; for he doth not ſay one thing and do another: he loves faithfulneſs and uprightneſs in
+<pb n="41" facs="tcp:52658:6" rendition="simple:additions"/>heart, life, and converſation; he hath ſhewed man what is good, and what he requireth of him, to do juſtly, to love mercy, and to walk hum<g ref="char:EOLhyphen"/>bly before him, and to live in love with one another, to do juſtly, and take off oppreſſion, and to ſhew mercy towards all people, and to walk in humbleneſs of heart before him, and to do freely; for all the gifts of God are free and large, and he is very loving and bountiful, and now he looks for fruits, not in words, but in actions; but it is not ſo among them that profeſs to be the people of the Lord, yet in their actions deny him; for the true Church of Chriſt was loving and tender one to another, there was not any among them that lacked any thing, they was of one heart, and one minde, there was no cruelty executed amongſt them: the true Church of Chriſt is to be as he is, holy, and harmleſs, pure, and peaceable, and to be in ſubjection to him that is head, even to Chriſt, and to keep his commands, they that love him do obey him, and abide in his doctrine: Jeſus Chriſt and his Spouſe are both one, he is the head; and his Saints are the body, and the Spouſe muſt be in ſubjecti<g ref="char:EOLhyphen"/>on to him; and obedient to him in all things; as <hi>Sarah</hi> obeyed <hi>Abraham,</hi> and called him Lord, &amp; the wife is ſubject to her husband, ſo the Church is to Chriſt: Chriſt is the head, they are the body, and the body is guid<g ref="char:EOLhyphen"/>ed by the head: Chriſt is the head in all things, and the Church is ſubject to Chriſt, for he is not without the body, and they are not without the head; ſo Chriſt and the Saints are one, and as he is, ſo are they, they are bone of his bone, and fleſh of his fleſh; the Church is the love of Chriſt, and Chriſt is the love of the Church: as he is, ſo are they, all love, united together into one, even into the Law of the Father; the Fa<g ref="char:EOLhyphen"/>ther, Son, and Saints, make but one perfect Chriſt, <hi>I in them, and they in me, as thou Father art in me.</hi> Chriſt gave himſelf for the Church, that he might preſent it to his Father without any ſpot or wrInkle, or any ſuch thing, but that it ſhould be holy, and without blemiſh: and the Church of Chriſt is ſanctified and cleanſed with the blood of the Lamb, and it is covered with the robes of righteouſneſs, and made perfect through his holineſs, being all glorious within, and the head of it is love; and Chriſt: and the Church is all one. But the Church of <hi>Babylon</hi> is an Harlot, and rides upon the ſcarlet coloured Beaſt, and profeſſeth love to Chriſt; but lives like a Whore; for ſhe is committing fornication under every green tree, and playing the Harlot with many lovers: The Church of Chriſt is glorious within, and ſo the Whore of <hi>Babylon</hi> is glorious without, ride<g ref="char:EOLhyphen"/>ing upon a painted Beaſt; a Beaſt is that which is not in the truth: and yet profeſſeth to be by words, but in actions walk contrary, ſatisfying the fleſh with the affections and luſts thereof, luſting after pride, and luſting after covetouſneſs, and luſting after honours, and after pleaſures, and wantonneſs, and yet profeſs love to Chriſt; and can ſpeak fine words, painted with the words of Chriſt, and with the words of the Prophets and Apoſtles, but lives in the wicked Imaginations of their hearts, and the Beaſt; and the Whore is one, and are united together, to live in pleaſures and wantonneſs upon earth, being marryed to pride, and pro<g ref="char:EOLhyphen"/>fits,
+<pb n="42" facs="tcp:52658:7"/>covetouſneſs, and oppreſſion, and grinding the faces of the poor, and the head of them is envy, wrath, and malice; and if any ſpeak of the love of Chriſt among them, they are ſo full of envie and wrath, that they perſecute them to death, and yet profeſs to be the Spouſe of Chriſt too: but Chriſt and his Spouſe is one in love, and tenderneſs, and pity, and compaſſion; and they are united both into the divine being of the Father: and as the harlot is out of the divine nature, marryed to the luſts and pleaſures of the world, ſo Chriſt and his are taken up into the full enjoy<g ref="char:EOLhyphen"/>ment of the Fathers love, and they loath pride and covetouſneſs, malice and envie, wrath and deceit, and oppreſſion, knowing that all unrighte<g ref="char:EOLhyphen"/>ouſneſs is of the devil. And as the Church of Chriſt is all glorious with<g ref="char:EOLhyphen"/>in, and covered with the righteouſneſs of Chriſt, and contends for the faith that was once given to the Saints: ſo the Church of <hi>Babylon</hi> is all glorious without, but the inſide is full of rottenneſs, and filthy hypocriſie, and ſecret envie, and hatred, and ſecret ſubtilty, and diſſimulation, and yet makes a profeſſion of God, and of Chriſt: but their folly doth appear dayly more and more, and their ſecret abominations are diſcovering dayly; and as the Saints are covered with the righteouſneſs of Chriſt, the worlds Church, they are covered with unrighteouſneſs: and in ſtead of contending for the faith in his purity, they contend altogether for the deceit, that they may uphold the kingdome of ſin and Satan, and live altogether in pride, and oppreſſion, and luſt, and exceſs, and ſo makes themſelves manifeſt by their fruits, that they do not live in what they do profeſs.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
